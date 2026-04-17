@@ -8,40 +8,40 @@
 - [x] Cloud Seeding, Mayan Electricity, and War
 - [x] They put a fly in the matrix
 
-- [] They crashed this rocket on purpose?!?
-- [] I modified this electric vehicle so the tires can play music
-- [] Fresnel lens solve climate change
-- [] The biggest windows vulnerability and AI just made it worse
-- [] Noise Canceling windows, RFIDs, and Pets
-- [] Did ancient people have computers?
-- [] Did a meme cause the Iran war
-- [] Whisps, Spinners, and Mil-Orbs
-- [] Cars, Invisibility Cloaks, and Moth Eyeballs
-- [] Prime numbers: Generating and Factoring
-- [] Quantum physics is everywhere
-- [] Is the universe really expanding?
-- [] A solution to the fermi paradox
-- [] How might you collect real-time brain data
-- [] How to make a quantum proof algorithm and how to secure personal IDs
-- [] Were Renaissance Orchestras the first computers
-- [] Did the Romans have Computers?
-- [] Can dogs run their own no kill shelter
-- [] See 3d depth on your screen: Autostereograms
-- [] Trees are natures Air Conditioner
-- [] How to actually make electric trucks
-- [] Reading minds with SpeeChin
-- [] How to design Injection Molding dies for 1000 times cheaper
-- [] US Cigarettes give you twice the cancer vs European
-- [] 80% Solar efficiency
-- [] The secret poison in vapes
-- [] Sub vocalizations, bone vibration, resonance, and high pitch audio mind reading
-- [] 3-D audio, ray, tracing, quantum physics, and active and deconstructive encryption
-- [] The US let Monsanto give you Cancer so Israel can Evaporate People
-- [] You literally learn 20x times faster when playing
-- [] Fresnel lens arrays in space will let us reach the stars
-- [] Intelligence, portal 2, and play
-- [] Quantum neurofilaments and mitochondria light
-- [] Religion and Halos
-- [] How to make lk-99
-- [] The many worlds theory and simulation theory are identical
-- [] Havana syndrome and sunscreen
+- [ ] They crashed this rocket on purpose?!?
+- [ ] I modified this electric vehicle so the tires can play music
+- [ ] Fresnel lens solve climate change
+- [ ] The biggest windows vulnerability and AI just made it worse
+- [ ] Noise Canceling windows, RFIDs, and Pets
+- [ ] Did ancient people have computers?
+- [ ] Did a meme cause the Iran war
+- [ ] Whisps, Spinners, and Mil-Orbs
+- [ ] Cars, Invisibility Cloaks, and Moth Eyeballs
+- [ ] Prime numbers: Generating and Factoring
+- [ ] Quantum physics is everywhere
+- [ ] Is the universe really expanding?
+- [ ] A solution to the fermi paradox
+- [ ] How might you collect real-time brain data
+- [ ] How to make a quantum proof algorithm and how to secure personal IDs
+- [ ] Were Renaissance Orchestras the first computers
+- [ ] Did the Romans have Computers?
+- [ ] Can dogs run their own no kill shelter
+- [ ] See 3d depth on your screen: Autostereograms
+- [ ] Trees are natures Air Conditioner
+- [ ] How to actually make electric trucks
+- [ ] Reading minds with SpeeChin
+- [ ] How to design Injection Molding dies for 1000 times cheaper
+- [ ] US Cigarettes give you twice the cancer vs European
+- [ ] 80% Solar efficiency
+- [ ] The secret poison in vapes
+- [ ] Sub vocalizations, bone vibration, resonance, and high pitch audio mind reading
+- [ ] 3-D audio, ray, tracing, quantum physics, and active and deconstructive encryption
+- [ ] The US let Monsanto give you Cancer so Israel can Evaporate People
+- [ ] You literally learn 20x times faster when playing
+- [ ] Fresnel lens arrays in space will let us reach the stars
+- [ ] Intelligence, portal 2, and play
+- [ ] Quantum neurofilaments and mitochondria light
+- [ ] Religion and Halos
+- [ ] How to make lk-99
+- [ ] The many worlds theory and simulation theory are identical
+- [ ] Havana syndrome and sunscreen
