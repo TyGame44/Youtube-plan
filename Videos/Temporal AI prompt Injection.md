@@ -24,12 +24,15 @@ This is essentially trajectory imitation, not belief.
 
 ## Implications
 Benign use:
- Writing a “future outcome as if it already happened” can improve planning quality and clarity.
+- Writing a “future outcome as if it already happened” can improve planning quality and clarity.
+
+ 
 Malicious use:
  A fabricated past narrative can:
-steer goals
-bias decisions
-encourage real-world actions that make the narrative come true
+- steer goals
+- bias decisions
+- encourage real-world actions that make the narrative come true
+
 
 ## Bottom line
 Past-tense narratives act as low-uncertainty, high-coherence action templates that LLMs preferentially use for planning—regardless of whether the described events actually occurred.
