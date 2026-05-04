@@ -1,8 +1,8 @@
 # A solution to the fermi paradox
 
+The fermi paradox asks why haven't we seen aliens. I propose our surroundings already answer that question.
 
-
-We are in an interesting location in the milky way.
+We are in a very interesting part of the milky way.
 
 
 
